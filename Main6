@@ -1,0 +1,8 @@
+import java.util.*;
+public class Main6{
+public static void main(String[] args){
+Pair<Integer,String>p1=new Pair(14,"Sakshi");
+Pair<String,Boolean>p2=new Pair(true,"Mary");
+}
+}
+
